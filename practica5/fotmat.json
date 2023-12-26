@@ -1,0 +1,10 @@
+{
+    "client": "324234234234",
+    "products": {
+        "name": "Jordan 4 off white",
+        "stock": 1,
+        "description": "New",
+        "price": 220
+    },
+    "total": "40"
+}
